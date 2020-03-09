@@ -15,3 +15,5 @@ Abra o terminal no diretório do projeto e digite:
 Depois disso basta digitar no terminal:
 
 #### `npm run start` ou `yarn start`
+
+<img src="/teste.jpg">

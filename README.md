@@ -16,4 +16,4 @@ Depois disso basta digitar no terminal:
 
 #### `npm run start` ou `yarn start`
 
-<img src="/teste.jpg">
+<img src="/teste.jpg" styles="width: 50%; height: 50%">
